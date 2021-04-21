@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.AssemblyInfo.cs
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MedHospital\MedHospital\bin\Debug\netcoreapp3.1\MedHospital.exe
+C:\Users\User\source\repos\MedHospital\MedHospital\bin\Debug\netcoreapp3.1\MedHospital.deps.json
+C:\Users\User\source\repos\MedHospital\MedHospital\bin\Debug\netcoreapp3.1\MedHospital.runtimeconfig.json
+C:\Users\User\source\repos\MedHospital\MedHospital\bin\Debug\netcoreapp3.1\MedHospital.runtimeconfig.dev.json
+C:\Users\User\source\repos\MedHospital\MedHospital\bin\Debug\netcoreapp3.1\MedHospital.dll
+C:\Users\User\source\repos\MedHospital\MedHospital\bin\Debug\netcoreapp3.1\MedHospital.pdb
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.dll
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.pdb
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.genruntimeconfig.cache
+C:\Users\User\source\repos\MedHospital\MedHospital\obj\Debug\netcoreapp3.1\MedHospital.FormCallPerson.resources
